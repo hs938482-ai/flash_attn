@@ -1,7 +1,7 @@
 # FlashAttention
 This repository provides the official implementation of FlashAttention and
 FlashAttention-2 from the
-following papers.
+following papers
 
 **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness**  
 Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher Ré  
